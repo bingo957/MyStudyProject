@@ -1,0 +1,9 @@
+微信路径为->C:\Program Files (x86)\Tencent\WeChat\WeChat.exe
+QQ路径为->C:\Program Files (x86)\Tencent\QQ\Bin\QQ.exe
+截图路径为->E:\应用软件\Snipaste-1.11.0-x86\Snipaste.exe
+谷歌路径为->C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+搜狗路径为->C:\Users\61011\AppData\Local\SogouExplorer\SogouExplorer.exe
+网盘路径为->E:\百度网盘\BaiduNetdisk\BaiduNetdisk.exe
+MD路径为->E:\markdown\Typora\Typora.exe
+录屏路径为->E:\FSCapture\FSCapture\FSCapture.exe
+PY路径为->E:\pycharm\PyCharm 2018.3.5\bin\pycharm64.exe
