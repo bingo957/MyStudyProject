@@ -41,4 +41,8 @@ class Bullet2(pygame.sprite.Sprite):
     def reset(self, position):
         self.rect.left, self.rect.top = position
         self.active = True
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 161cbc5b34e841ec6151944b81a2274d6b52eb44

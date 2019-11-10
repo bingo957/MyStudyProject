@@ -6,10 +6,10 @@ import base64
 import requests
 
 # 1、读取第一张图片数据
-with open('1.png', 'rb') as f:
+with open(r'D:\StudyCodeWorkSpace\MyStudyProject\MyProjects\workspace\潭州课堂\face_read\1.png', 'rb') as f:
     pic_1 = f.read()
 # 2、读取第二张图片数据
-with open('2.png', 'rb') as f:
+with open(r'D:\StudyCodeWorkSpace\MyStudyProject\MyProjects\workspace\潭州课堂\face_read\2.png', 'rb') as f:
     pic_2 = f.read()
 # 3、图片数据整合
 image_data = json.dumps(
